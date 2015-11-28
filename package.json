@@ -1,0 +1,23 @@
+{
+  "name": "vdc-scraper",
+  "version": "1.0.0",
+  "description": "A Scraper for vdc-sy.info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lrlna/vdc-scraper.git"
+  },
+  "keywords": [
+    "scraper",
+    "vdc"
+  ],
+  "author": "Irina Shestak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lrlna/vdc-scraper/issues"
+  },
+  "homepage": "https://github.com/lrlna/vdc-scraper#readme"
+}
